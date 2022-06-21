@@ -22,3 +22,4 @@ Mas se quiser criar o ambiente:
    
   
   
+(As imagens do projeto estão disponíveis na pasta img_project)
