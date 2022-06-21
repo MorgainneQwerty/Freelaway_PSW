@@ -22,9 +22,7 @@ Mas se quiser criar o ambiente:
     
     
 Algumas fotos para mostrar mais sobre o projeto:
-    
-    ![Captura de Tela 2022-04-24 às 22 10 16](https://user-images.githubusercontent.com/89174872/174693624-958819e2-ff3a-4423-a2eb-4fd9b2104653.png)
-
-    
-    
-    ![Captura de Tela 2022-04-26 às 23 44 52](https://user-images.githubusercontent.com/89174872/174693703-268056b3-2016-4c6f-86c2-965db430da3f.png)
+  
+  <img>  
+   ![Captura de Tela 2022-04-24 às 22 10 16](https://user-images.githubusercontent.com/89174872/174694140-cd09eaf5-d6a1-45f8-96e7-c71cf0f96601.png)
+   </img>
