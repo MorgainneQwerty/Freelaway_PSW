@@ -1,4 +1,4 @@
-# Freelaway_PSW
+# Freelaway
 Freelaway é um projeto para Devs freenlancers. Ele foi criado usando HTML, CSS, JS, Bootstrap e um framework do Python: Django.
 
 Para usar e ver em funcionamento é só ativar o ambiente virtual (que já foi criado):
