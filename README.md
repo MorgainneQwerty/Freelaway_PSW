@@ -11,13 +11,13 @@ Para usar e ver em funcionamento é só ativar o ambiente virtual (que já foi c
     
     
     
-Mas se quiser criar o ambiente:
 
-# Criar
+
+# Ativar ambiente virtual
 	# Linux
-		python3 -m venv venv
+		source venv/bin/activate
 	# Windows
-		python -m venv venv
+		venv\Scripts\Activate
     
    
   
